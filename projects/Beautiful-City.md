@@ -1,15 +1,11 @@
 ---
 draft: false
-title: Beautiful City
-description: >
-  Images taken from the Future Cities exhibition held during Paris Fashion Week
-  at the Centre Pompidou.
-year: 2022
+title: 't o k y o  ( a t  n i g h t ) '
+description: ''
+year: 2015
 images:
-  - src: /assets/uploads/photo-1695394979617-f43bbf569deb.avif
-    caption: a caption
-  - src: /assets/uploads/photo-1699213880412-01eddb3023ee.avif
-    caption: jkkhkjhm
+  - src: /assets/uploads/tokyo-at-night.png
+    caption: tokyo-at-night
 date: 2023-11-10T12:28:51.623Z
 position: 4
 ---
