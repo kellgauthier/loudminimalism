@@ -3,7 +3,7 @@ draft: false
 title: 'a q u a '
 description: |
   A collection of aquatic themed digital art. 
-year: 2022
+year: 2021
 images:
   - src: /assets/uploads/drifters.PNG
     caption: lucid
@@ -14,6 +14,3 @@ images:
 date: 2023-11-14T10:14:33.896Z
 ---
 
-An additional fictitious project description.
-
-All images used in this demo are sourced from [Unsplash](https://unsplash.com/).
