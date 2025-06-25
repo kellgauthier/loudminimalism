@@ -1,17 +1,15 @@
 ---
 draft: false
-title: Flower Studies
-description: |
-  A series of still life images shot for Purple.fr
+title: f l o w e r  s t u d i e s
+description: ''
 year: 2023
-position: 0
 images:
-  - src: /assets/uploads/premium_photo-1681140029775-36a657447c4f.avif
-    caption: Hand with flowers
-  - src: /assets/uploads/premium_photo-1664457233806-e1477e52e2ab.avif
-    caption: Macro image
+  - src: /assets/uploads/freyas-sacred-flower.PNG
+    caption: freya's sacred flower
 date: 2023-11-10T09:12:06.264Z
+position: 0
 ---
+
 An additional fictitious project description.
 
 All images used in this demo are sourced from [Unsplash](https://unsplash.com/).
