@@ -5,6 +5,8 @@ description: |
   A collection of aquatic themed digital art. 
 year: 2022
 images:
+  - src: /assets/uploads/drifters.PNG
+    caption: lucid
   - src: /assets/uploads/fortress.JPG
     caption: fortress
   - src: /assets/uploads/r e e f e r.PNG
