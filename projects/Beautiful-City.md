@@ -10,6 +10,3 @@ date: 2023-11-10T12:28:51.623Z
 position: 4
 ---
 
-An additional fictitious project description.
-
-All images used in this demo are sourced from [Unsplash](https://unsplash.com/).
