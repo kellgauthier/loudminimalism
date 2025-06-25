@@ -4,6 +4,8 @@ title: f l o w e r  s t u d i e s
 description: ''
 year: 2023
 images:
+  - src: /assets/uploads/autumnal.png
+    caption: 'autumnal '
   - src: /assets/uploads/posy.PNG
     caption: posy
   - src: /assets/uploads/chromata-capture (14) 2.PNG
